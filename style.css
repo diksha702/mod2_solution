@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+body{
+    background-color: #f8d09b;
+}
 h2{
     font-size: 170%;
     text-align: center;
@@ -9,13 +12,13 @@ h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #box1{
-    background-color: rgb(191, 235, 148);
+    background-color: rgb(158, 204, 111);
     border: 1px solid black;
     margin: 1%;
 
 }
 #box2{
-    background-color: rgb(248, 189, 167);
+   background-color: rgb(233, 161, 134);
     border: 1px solid black;
     margin: 1%;
 
